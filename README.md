@@ -32,14 +32,9 @@ The project showcases core backend functionalities such as:
 
 ## 💡 Tech Stack
 
+- HTML, CSS, Javascript
 - Java  
 - Spring Boot  
 - Spring Data JPA  
 - Maven  
 - H2 / MySQL (based on configuration)  
-- Lombok (if used for model simplification)
-
----
-
-## 📁 Project Structure
-
